@@ -1,2 +1,2 @@
 # Algoritmos
-Unifor - Atividade Algoritmos
+Unifor - Atividade de Algoritmos
